@@ -20,7 +20,7 @@ const RedirectManager = () => {
     linkedin: "https://www.linkedin.com/in/viniciuskappke",
     twitter: "https://www.twitter.com/yts0l",
     instagram: "https://www.instagram.com/vini.kkkappke",
-    mail: "mailto:vinicius@kappke.tech",
+    mail: "mailto:viniciuskappke@gmail.com",
     discord: "https://discord.com/users/207947146371006464",
     steam: "https://steamcommunity.com/id/losty1234",
     kody: "http://kody.mobi",
