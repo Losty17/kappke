@@ -1,5 +1,5 @@
 import { Box, Divider, Grid, Icon, Typography } from "@mui/material";
-import Underline from "./Underline";
+import { Underline } from ".";
 
 const Header = () => {
   return (

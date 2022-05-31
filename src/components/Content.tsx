@@ -1,7 +1,6 @@
-import { Box, Divider, Grid, Icon, Typography } from "@mui/material";
+import { Box, Grid, Icon, Typography } from "@mui/material";
 import React from "react";
-import Underline from "./Underline";
-import Header from "./Header";
+import { Header, Underline } from ".";
 
 interface ISectionProps {
   title: string;

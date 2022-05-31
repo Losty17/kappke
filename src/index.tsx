@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./components/App";
-import RedirectManager from "./components/RedirectManager";
+import { App, RedirectManager } from "./components";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { CssBaseline, createTheme, ThemeProvider } from "@mui/material";
 

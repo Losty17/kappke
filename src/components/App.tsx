@@ -1,6 +1,5 @@
-import Sidebar from "./Sidebar";
-import Content from "./Content";
 import { Grid } from "@mui/material";
+import { Content, Sidebar } from ".";
 
 const App = () => {
   return (
